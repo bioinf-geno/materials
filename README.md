@@ -1,3 +1,11 @@
+**Revisa los vínculos más abajo para traer tu computador listo para la clase**
+
+Para introducirte en R sigue los siguientes tutoriales (~25 minutos). Al completar estos tutoriales vas a estar en una mejor posición
+- [Descarga R](https://www.r-project.org)
+- [Instalando R](http://www.datacarpentry.org/R-genomics/00-before-we-start.html)
+- [Introducción a R](http://www.datacarpentry.org/R-genomics/01-intro-to-R.html)
+
+# Programa Bioinformática Genómica
 Carrera : **Ingeniería en Bioinformática**
 
 Asignatura : Bioinformática genómica (INB320)
