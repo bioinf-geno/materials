@@ -48,7 +48,8 @@ Al término del curso, el estudiante exitoso habrá desarrollado la capacidad de
 
 -   Metagenómica y metatranscriptómica
 
- 
+ ![t1](https://raw.githubusercontent.com/bioinf-geno/materials/master/t1.png)
+ ![t2](https://raw.githubusercontent.com/bioinf-geno/materials/master/t2.png)
 
 \*Cualquier eventual modificación de la información entregada en este documento será informada oportunamente a los alumnos.
 
@@ -83,13 +84,9 @@ Durante todas las actividades, los alumnos deben cumplir las siguientes condicio
 **RECURSOS**
 
 -   [Software Carpentry](http://software-carpentry.org)
-
 -   [Little Book of R for Bioinformatics!](https://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/)
-
 -   [An Introduction to Applied Bioinformatics](http://readiab.org/book/latest/)
-
 -   [Bioconductor Workflows](https://www.bioconductor.org/help/workflows/)
-
 -   [Bioconductor course materials](https://www.bioconductor.org/help/course-materials/)  
 -   [Applied Statistics for Bioinformatics using R](https://cran.r-project.org/doc/contrib/Krijnen-IntroBioInfStatistics.pdf)  
 - [Bernd Klaus - Teaching Materials](http://www-huber.embl.de/users/klaus/teaching.html%23machine-learning-predoc-course-2014)  
