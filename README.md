@@ -1,5 +1,6 @@
 # Anuncios
 
+**15 marzo -** Aparte de la clase, hoy también vamos a armar el calendario de presentaciones de artículos científicos. La idea es que escojamos artículos compilados por el biólogo computacional Lior Pachter ([Bits of DNA](https://liorpachter.wordpress.com/seq/))relacionados con análisis funcionales basados en secuenciamiento masivo (High-Throughput Sequencing)  
 **15 marzo -** [diapos clase 01](https://github.com/bioinf-geno/materials/raw/master/01_seq_technologies.pdf)  
 **14 marzo -** **Revisa los vínculos más abajo para traer tu computador listo para la clase**
 
