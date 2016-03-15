@@ -1,5 +1,7 @@
 # Anuncios
-**Revisa los vínculos más abajo para traer tu computador listo para la clase**
+
+**15 marzo -** [diapos clase 01](https://github.com/bioinf-geno/materials/raw/master/01_seq_technologies.pdf)  
+**14 marzo -** **Revisa los vínculos más abajo para traer tu computador listo para la clase**
 
 Para introducirte en R sigue los siguientes tutoriales (~25 minutos). Al completar estos tutoriales vas a estar en una mejor posición para comenzar con los prácticos más intensos.
 
