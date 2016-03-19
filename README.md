@@ -1,5 +1,11 @@
 # Anuncios
+**19 marzo -** Daniel ya escogió un artículo para este martes y además vamos a tener otro para discutir entre todos. Daniel va a hacer una presentación de 30 minutos aproximadamente y después nos centraremos en la discusión del artículo. Yo voy a liderar la discusión esta vez y después vamos cambiando.  
+- El artículo para la presentación está [aquí](https://github.com/bioinf-geno/materials/raw/master/seth-smith2013.pdf)  
+- El artículo para la discusión está [aquí](https://github.com/bioinf-geno/materials/raw/master/nurk2013.pdf)  
 
+Saludos
+
+Eduardo  
 **15 marzo -** Aparte de la clase, hoy también vamos a armar el calendario de presentaciones de artículos científicos. La idea es que escojamos artículos compilados por el biólogo computacional Lior Pachter ([Bits of DNA](https://liorpachter.wordpress.com/seq/)) relacionados con análisis funcionales basados en secuenciamiento masivo (High-Throughput Sequencing)  
 **15 marzo -** [diapos clase 01](https://github.com/bioinf-geno/materials/raw/master/01_seq_technologies.pdf)  
 **14 marzo -** **Revisa los vínculos más abajo para traer tu computador listo para la clase**
