@@ -1,4 +1,5 @@
-# Anuncios
+# Anuncios  
+**20 marzo -** [diapos clase 02](https://github.com/bioinf-geno/materials/raw/master/lib.pdf)  
 **19 marzo -** Daniel ya escogió un artículo para este martes y además vamos a tener otro para discutir entre todos. Daniel va a hacer una presentación de 30 minutos aproximadamente y después nos centraremos en la discusión del artículo. Yo voy a liderar la discusión esta vez y después vamos cambiando.  
 - El artículo para la presentación está [aquí](https://github.com/bioinf-geno/materials/raw/master/seth-smith2013.pdf)  
 - El artículo para la discusión está [aquí](https://github.com/bioinf-geno/materials/raw/master/nurk2013.pdf)  
