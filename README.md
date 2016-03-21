@@ -22,7 +22,7 @@ Carrera : **Ingeniería en Bioinformática**
 
 Asignatura : Bioinformática genómica (INB320)
 
-Horas : 2 horas: lunes 15:50 – 17:30 horas.
+Horas : 2 horas: lunes 10:20 – 12:00 horas.
 
 2 horas: martes 12:10 – 13:50 horas.
 
