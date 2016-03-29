@@ -1,4 +1,5 @@
 # Anuncios  
+**29 marzo -** [diapos clase 03](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)  
 **28 marzo -** [diapos lab 01](https://github.com/bioinf-geno/materials/raw/master/lab01.pdf)  
 En este lab vamos a comenzar a trabajar en R/Bioconductor para el manejo de secuecnias de DNA  
 **20 marzo -** [diapos clase 02](https://github.com/bioinf-geno/materials/raw/master/lib.pdf)  
