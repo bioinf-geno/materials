@@ -5,6 +5,8 @@ Los paquetes son:
 - [msa](http://www.bioconductor.org/packages/release/bioc/html/msa.html) - Para realizar un alineamiento múltiple. Ver ejemplo [aquí] (https://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/src/chapter5.html)  
 - [DECIPHER](https://www.bioconductor.org/packages/release/bioc/vignettes/DECIPHER/inst/doc/DesignPrimers.pdf) - Para diseñar primers compatibles con un grupo de secuencias.  
 
+#####Recuerden revisar los vínculos para descargar e instalar los paquetes apropiados  
+
 **29 marzo -** [diapos clase 03](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)  
 **28 marzo -** [diapos lab 01](https://github.com/bioinf-geno/materials/raw/master/lab01.pdf)  
 En este lab vamos a comenzar a trabajar en R/Bioconductor para el manejo de secuecnias de DNA  
