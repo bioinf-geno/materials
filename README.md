@@ -1,4 +1,10 @@
 # Anuncios  
+**3 abril -**  Estimados estudiantes, en el próximo laboratorio vamos a explorar herramientas para alineamientos múltiples en R. El laboratorio consiste en usar funciones en R para descargar genes de interés, usar el paquete msa para alinear estas secuencias, y finalmente usar el paquete DECIPHER para diseñar partidores. Esta vez el laboratorio no será tan estructurado como una guía paso a paso para que Uds. desarrollen la capacidad de resolver un problema concreto en R independientemente. Por supuesto, cualquier consulta que tengan no duden en contactarme.  
+Los paquetes son:  
+- [seqinR] (http://seqinr.r-forge.r-project.org/seqinr_2_0-7.pdf) - Para buscar e importar secuencias en R  
+- [msa](http://www.bioconductor.org/packages/release/bioc/html/msa.html) - Para realizar un alineamiento múltiple. Ver ejemplo [aquí] (https://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/src/chapter5.html)  
+- [DECIPHER](https://www.bioconductor.org/packages/release/bioc/vignettes/DECIPHER/inst/doc/DesignPrimers.pdf) - Para diseñar primers compatibles con un grupo de secuencias.  
+
 **29 marzo -** [diapos clase 03](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)  
 **28 marzo -** [diapos lab 01](https://github.com/bioinf-geno/materials/raw/master/lab01.pdf)  
 En este lab vamos a comenzar a trabajar en R/Bioconductor para el manejo de secuecnias de DNA  
