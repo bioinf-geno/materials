@@ -9,7 +9,7 @@ ___
 En está evaluación el estudiante deberá aplicar los conocimientos de las tres primeras unidades del curso para resolver un problema bioinformático genómico concreto. La prueba comienza en la sala de clases y se espera que sea entregada el domingo 10 de abril hasta la medianoche.  
 El estudiante puede usar todo tipo de recursos en linea y físicos para fundamentar su estrategia o respuestas (es más eso es lo que espero 100%). La única condición es que el producto de su trabajo sea de su total y absoluta autoría. Cualquier desvío de esto será considerado como deshonestidad intelectual y será penalizado con la nota mínima. 
 
-**Problema a resolver** Ud. tiene que escoger un problema biológico de libre elección, i.e., una enfermedad, una condición biológica de valor biotecnológico,  algo en lo que ya está trabajando, etc. En general una hipótesis meritoria de ser estudiada usando una estrategia genómica. El producto a entregar será un reporte en MarkDown detallando una estragia a seguir para responder su hipótesis o pregunta.  
+**Problema a resolver** Ud. tiene que escoger un problema biológico de libre elección, i.e., una enfermedad, una condición biológica de valor biotecnológico,  algo en lo que ya está trabajando, etc. En general una hipótesis meritoria de ser estudiada usando una estrategia genómica. El producto a entregar será un reporte en [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) detallando una estragia a seguir para responder su hipótesis o pregunta.  
 En la clase hasta ahora hemos visto:  
 
 -   Técnicas de secuenciamiento de DNA: Sanger, HTS  
