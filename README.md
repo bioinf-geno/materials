@@ -1,6 +1,6 @@
 # Anuncios  
 **5 abril -**  Estudiantes! La primera prueba de nuestro curso está lista para que Uds. comiencen a resolverla.  
-[Prueba 01](https://raw.githubusercontent.com/bioinf-geno/materials/master/prueba01.md)  
+[Prueba 01](https://github.com/bioinf-geno/materials/blob/master/prueba01.md)  
 **3 abril -**  Estimados estudiantes, en el próximo laboratorio vamos a explorar herramientas para alineamientos múltiples en R. El laboratorio consiste en usar funciones en R para descargar genes de interés, usar el paquete msa para alinear estas secuencias, y finalmente usar el paquete DECIPHER para diseñar partidores. Esta vez el laboratorio no será tan estructurado como una guía paso a paso para que Uds. desarrollen la capacidad de resolver un problema concreto en R independientemente. Por supuesto, cualquier consulta que tengan no duden en contactarme.  
 Los paquetes son:  
 - [seqinR] (http://seqinr.r-forge.r-project.org/seqinr_2_0-7.pdf) - Para buscar e importar secuencias en R  
