@@ -1,4 +1,6 @@
 # Anuncios  
+**5 abril -**  Estudiantes! La primera prueba de nuestro curso está lista para que Uds. comiencen a resolverla.  
+[Prueba 01](https://raw.githubusercontent.com/bioinf-geno/materials/master/prueba01.md)  
 **3 abril -**  Estimados estudiantes, en el próximo laboratorio vamos a explorar herramientas para alineamientos múltiples en R. El laboratorio consiste en usar funciones en R para descargar genes de interés, usar el paquete msa para alinear estas secuencias, y finalmente usar el paquete DECIPHER para diseñar partidores. Esta vez el laboratorio no será tan estructurado como una guía paso a paso para que Uds. desarrollen la capacidad de resolver un problema concreto en R independientemente. Por supuesto, cualquier consulta que tengan no duden en contactarme.  
 Los paquetes son:  
 - [seqinR] (http://seqinr.r-forge.r-project.org/seqinr_2_0-7.pdf) - Para buscar e importar secuencias en R  
@@ -7,10 +9,10 @@ Los paquetes son:
 
 #####Recuerden revisar los vínculos para descargar e instalar los paquetes apropiados  
 
-**29 marzo -** [diapos clase 03](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)  
-**28 marzo -** [diapos lab 01](https://github.com/bioinf-geno/materials/raw/master/lab01.pdf)  
+**29 marzo -** [Diapos clase 03](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)  
+**28 marzo -** [Diapos lab 01](https://github.com/bioinf-geno/materials/raw/master/lab01.pdf)  
 En este lab vamos a comenzar a trabajar en R/Bioconductor para el manejo de secuecnias de DNA  
-**20 marzo -** [diapos clase 02](https://github.com/bioinf-geno/materials/raw/master/lib.pdf)  
+**20 marzo -** [Diapos clase 02](https://github.com/bioinf-geno/materials/raw/master/lib.pdf)  
 **19 marzo -** Daniel ya escogió un artículo para este martes y además vamos a tener otro para discutir entre todos. Daniel va a hacer una presentación de 30 minutos aproximadamente y después nos centraremos en la discusión del artículo. Yo voy a liderar la discusión esta vez y después vamos cambiando.  
 - El artículo para la presentación está [aquí](https://github.com/bioinf-geno/materials/raw/master/seth-smith2013.pdf)  
 - El artículo para la discusión está [aquí](https://github.com/bioinf-geno/materials/raw/master/nurk2013.pdf)  
