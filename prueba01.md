@@ -24,6 +24,7 @@ Por lo tanto mi expectativa es que centren la solución de su problema en estos 
 - Una hipótesis  
 - Un diseño experimental y/o bioinformático de cómo abordaría el tema y qué actividades necesita realizar  
 - Resultados esperados y potenciales problemas asociados con su diseño experimental  
+- Incluir referencias, referencias no incluidas en la extensión del reporte    
 
 Desde el punto de vista técnico el documento debe incluir imágenes y texto además de algo de código si Ud. lo estimara conveniente.
 
