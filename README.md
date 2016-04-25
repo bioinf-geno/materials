@@ -1,4 +1,7 @@
 # Anuncios  
+**24 abril -** Estimados estudiantes,
+Mañana aprovecharemos a ponernos al día y a revisar su avance con respecto a los laboratorios. El martes voy a presentar un artículo sobre [Single-Cell Genomics](https://github.com/bioinf-geno/materials/raw/master/Gawad_2016.pdf) bien interesante sobre esta tecnología emergente. 
+Nos vemos!  
 **19 abril -** [Diapos clase 05](https://github.com/bioinf-geno/materials/raw/master/clase05_comparative_genomics.pdf)  
 **11 abril -** [Diapos clase 04](https://github.com/bioinf-geno/materials/raw/master/clase04_genomics_assembly.pdf)  
 **10 abril -** Estudiantes! Consuelo realizará una presentación este martes sobre un tema súper relevante en genómica, i.e., el uso de librerías de representación reducida en genomas de organismos no modelo. El paper es: [RAD-Seq: Nathan A. Baird et al., “Rapid SNP Discovery and Genetic Mapping Using Sequenced RAD Markers,” PLoS ONE 3, no. 10 (October 13, 2008): e3376, doi:10.1371/journal.pone.0003376.](http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0003376.PDF)  
