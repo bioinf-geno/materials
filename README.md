@@ -1,4 +1,13 @@
 # Anuncios  
+**2 mayo -** Laboratorio de ensamblaje de genomas, evaluación y anotación  
+En este práctico Uds. van a recibir un set de datos genómicos correspondientes a un genoma bacteriano. Deben "limpiar" las reads, ensamblarlas, comparar los resultados de ese ensamble, y finalmente anotar y visualizar. El producto de este laboratorio es un capítulo más en el GitBook que están preparando como proyecto de clase.  
+Etapas en el práctico:  
+- Descargar reads  [aquí]()
+- Realizar control de calidad --> cortar extremos 3´ de baja calidad, eliminar reads con N´s, eliminar reads cuyo puntaje de calidad promedio sea menor a cierto umbral, etc.  Les recomiendo para esto la herramienta [PrinSeq](http://prinseq.sourceforge.net).  
+- Una vez que las reads están "limpias", pueden proceder con el ensamblaje. Aquí conviene probar al menos dos herramientas. Les recomiendo [SPAdes](http://spades.bioinf.spbau.ru) y [MaSurCa](http://www.genome.umd.edu/masurca.html)  
+- El siguiente paso es comparar los ensamblajes producidos por ambos programas. Una herramienta muyusada para esto es [QUAST](http://quast.bioinf.spbau.ru)  
+- Finalmente, la anotación genómica es lo que le va a dar sentido a esto al definir dónde están los genes, qué funciones codifican y cómo. En este caso les recomiendo anotar con [Prokka]() y con [eggNog](http://eggnogdb.embl.de/#/app/home).  
+
 **2 mayo -** [Diapos clase 06](https://github.com/bioinf-geno/materials/raw/master/clase06a_phylo.pdf)  
 **24 abril -** Estimados estudiantes,
 Mañana aprovecharemos a ponernos al día y a revisar su avance con respecto a los laboratorios. El martes voy a presentar un artículo sobre [Single-Cell Genomics](https://github.com/bioinf-geno/materials/raw/master/Gawad_2016.pdf) bien interesante sobre esta tecnología emergente. 
