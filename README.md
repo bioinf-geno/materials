@@ -1,4 +1,5 @@
 # Anuncios  
+**2 mayo -** [Diapos clase 06](https://github.com/bioinf-geno/materials/raw/master/clase06a_phylo.pdf)  
 **24 abril -** Estimados estudiantes,
 Mañana aprovecharemos a ponernos al día y a revisar su avance con respecto a los laboratorios. El martes voy a presentar un artículo sobre [Single-Cell Genomics](https://github.com/bioinf-geno/materials/raw/master/Gawad_2016.pdf) bien interesante sobre esta tecnología emergente. 
 Nos vemos!  
