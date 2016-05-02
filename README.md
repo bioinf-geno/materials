@@ -6,7 +6,7 @@ Etapas en el práctico:
 - Realizar control de calidad --> cortar extremos 3´ de baja calidad, eliminar reads con N´s, eliminar reads cuyo puntaje de calidad promedio sea menor a cierto umbral, etc.  Les recomiendo para esto la herramienta [PrinSeq](http://prinseq.sourceforge.net).  
 - Una vez que las reads están "limpias", pueden proceder con el ensamblaje. Aquí conviene probar al menos dos herramientas. Les recomiendo [SPAdes](http://spades.bioinf.spbau.ru) y [MaSurCa](http://www.genome.umd.edu/masurca.html)  
 - El siguiente paso es comparar los ensamblajes producidos por ambos programas. Una herramienta muyusada para esto es [QUAST](http://quast.bioinf.spbau.ru)  
-- Finalmente, la anotación genómica es lo que le va a dar sentido a esto al definir dónde están los genes, qué funciones codifican y cómo. En este caso les recomiendo anotar con [Prokka]() y con [eggNog](http://eggnogdb.embl.de/#/app/home).  
+- Finalmente, la anotación genómica es lo que le va a dar sentido a esto al definir dónde están los genes, qué funciones codifican y cómo. En este caso les recomiendo anotar con [Prokka](https://github.com/tseemann/prokka) y con [eggNog](http://eggnogdb.embl.de/#/app/home).  
 
 **2 mayo -** [Diapos clase 06](https://github.com/bioinf-geno/materials/raw/master/clase06a_phylo.pdf)  
 **24 abril -** Estimados estudiantes,
