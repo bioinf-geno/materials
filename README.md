@@ -2,7 +2,7 @@
 **2 mayo -** Laboratorio de ensamblaje de genomas, evaluación y anotación  
 En este práctico Uds. van a recibir un set de datos genómicos correspondientes a un genoma bacteriano. Deben "limpiar" las reads, ensamblarlas, comparar los resultados de ese ensamble, y finalmente anotar y visualizar. El producto de este laboratorio es un capítulo más en el GitBook que están preparando como proyecto de clase.  
 Etapas en el práctico:  
-- Descargar reads  [aquí](https://www.dropbox.com/s/qmtja3ollqbqcml/reads.zip?dl=0)(1.4 GB)
+- Descargar reads  [aquí](https://www.dropbox.com/s/qmtja3ollqbqcml/reads.zip?dl=0) (1.4 GB)
 - Realizar control de calidad --> cortar extremos 3´ de baja calidad, eliminar reads con N´s, eliminar reads cuyo puntaje de calidad promedio sea menor a cierto umbral, etc.  Les recomiendo para esto la herramienta [PrinSeq](http://prinseq.sourceforge.net).  
 - Una vez que las reads están "limpias", pueden proceder con el ensamblaje. Aquí conviene probar al menos dos herramientas. Les recomiendo [SPAdes](http://spades.bioinf.spbau.ru) y [MaSurCa](http://www.genome.umd.edu/masurca.html)  
 - El siguiente paso es comparar los ensamblajes producidos por ambos programas. Una herramienta muyusada para esto es [QUAST](http://quast.bioinf.spbau.ru)  
