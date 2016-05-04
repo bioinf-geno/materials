@@ -1,6 +1,6 @@
 # Anuncios  
 **4 mayo -** Estimados estudiantes,  
-El próximo 16 de mayo Daniel va a presentar el artículo [Schmitt, M.W., Kennedy, S.R., Salk, J.J., Fox, E.J., Hiatt, J.B. and Loeb, L.A., 2012. ***Detection of ultra-rare mutations by next-generation sequencing***. Proceedings of the National Academy of Sciences, 109(36), pp.14508-14513.](https://github.com/bioinf-geno/materials/raw/master/schmitt_2012.pdf). Nuestra tarea es llegar preparados para discutir el artículo por lo que les recomiendo leer el texto principal al igual que el material suplementario.
+El próximo 16 de mayo Daniel va a presentar el artículo [Schmitt, M.W., Kennedy, S.R., Salk, J.J., Fox, E.J., Hiatt, J.B. and Loeb, L.A., 2012. ***Detection of ultra-rare mutations by next-generation sequencing***. Proceedings of the National Academy of Sciences, 109(36), pp.14508-14513](https://github.com/bioinf-geno/materials/raw/master/schmitt_2012.pdf). Nuestra tarea es llegar preparados para discutir el artículo por lo que les recomiendo leer el texto principal al igual que el material suplementario.
 
 **2 mayo -** Laboratorio de ensamblaje de genomas, evaluación y anotación  
 En este práctico Uds. van a recibir un set de datos genómicos correspondientes a un genoma bacteriano. Deben "limpiar" las reads, ensamblarlas, comparar los resultados de ese ensamble, y finalmente anotar y visualizar. El producto de este laboratorio es un capítulo más en el GitBook que están preparando como proyecto de clase.  
