@@ -1,7 +1,6 @@
 # Anuncios  
 
-**13 julio -**  Ya tenemos los dos artículos que Daniel va a presentarnos el próximo lunes 18. El primero es [Convergent adaptation of human lactase persistence in Africa and Europe]() y el segundo es [A highly abundant bacteriophage discovered in the
-unknown sequences of human faecal metagenomes](). Vengan preparados para discutir los artículos en detalle!
+**13 julio -**  Ya tenemos los dos artículos que Daniel va a presentarnos el próximo lunes 18. El primero es [Convergent adaptation of human lactase persistence in Africa and Europe](https://github.com/bioinf-geno/materials/raw/master/tishkoff2006.pdf) y el segundo es [A highly abundant bacteriophage discovered in the unknown sequences of human faecal metagenomes](https://github.com/bioinf-geno/materials/raw/master/ncomms5498.pdf). Vengan preparados para discutir los artículos en detalle!
 **9 mayo -**  Estudiantes! La [segunda prueba](https://github.com/bioinf-geno/materials/blob/master/prueba02.md) de nuestro curso está lista para que Uds. comiencen a resolverla.  
 **4 mayo -** Estimados estudiantes,  
 El próximo 16 de mayo Daniel va a presentar el artículo [Schmitt, M.W., Kennedy, S.R., Salk, J.J., Fox, E.J., Hiatt, J.B. and Loeb, L.A., 2012. ***Detection of ultra-rare mutations by next-generation sequencing***. Proceedings of the National Academy of Sciences, 109(36), pp.14508-14513](https://github.com/bioinf-geno/materials/raw/master/schmitt_2012.pdf). Nuestra tarea es llegar preparados para discutir el artículo por lo que les recomiendo leer el texto principal al igual que el material suplementario.
