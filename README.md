@@ -1,5 +1,7 @@
 # Anuncios  
 
+**18 agosto -** La segunda clase de [metagenómica](https://github.com/bioinf-geno/materials/raw/master/clase09_metagenómica_parte2.pdf) está disponible!  
+En la última parte van a encontrar el laboratorio que nos falta sobre genética de poblaciones.  
 **2 agosto -** La clase de [metagenómica](https://github.com/bioinf-geno/materials/raw/master/clase09_metagenómica.pdf) está disponible!  
 **22 julio -** El segundo paper que presentará Consuelo es [***Comparing the normalization methods for the differential analysis of Illumina high-throughput RNA-Seq data***](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0778-7)  
 **20 julio -**  Les dejo las clases 7 y 8 [aquí](https://github.com/bioinf-geno/materials/raw/master/clase07_population_genetics.pdf) y [aquí](https://github.com/bioinf-geno/materials/raw/master/clase08_análisis_de_expresión_génica.pdf). Además, Consuelo nos va a presentar la próxima semana el artículo [***A comprehensive evaluation of normalization methods for Illumina high-throughput RNA sequencing data analysis***](http://bib.oxfordjournals.org/content/14/6/671.full).  
