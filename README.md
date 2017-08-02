@@ -1,7 +1,7 @@
 # Programa Bioinformática Genómica
 ****
 
-El programa de la asignatura lo encuentras [acá]() 
+El programa de la asignatura lo encuentras [acá](https://github.com/bioinf-geno/materials/raw/master/INB320_Bioinformática_Genómica_2017.pdf) 
 
 
 **VÍNCULOS ÚTILES**
