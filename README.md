@@ -6,6 +6,8 @@
 Para el proyecto de clase necesito que escriban un documento de una página de extensión y que incluya trabajar con datos desde reads hasta resultados. La idea es que sus proyectos cubran al menos dos tópicos del curso (en el programa de la clase).  
 El documento tiene que tener un título de proyecto, objetivo general y específicos, metodología. Finalmente tienen que mencionar cuál es la importancia del tema que van a hacer.
 
+********
+
 El programa de la asignatura lo encuentras [acá](https://github.com/bioinf-geno/materials/raw/master/INB320_Bioinformática_Genómica_2017.pdf) 
 
 - [Clase 01 - Secuenciación de DNA](https://github.com/bioinf-geno/materials/raw/master/clase01_genomics_seq.pdf)
