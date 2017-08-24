@@ -13,6 +13,7 @@ El programa de la asignatura lo encuentras [acá](https://github.com/bioinf-geno
 - [Clase 01 - Secuenciación de DNA](https://github.com/bioinf-geno/materials/raw/master/clase01_genomics_seq.pdf)
 - [Clase 02 - Preparación de librerías](https://github.com/bioinf-geno/materials/raw/master/clase02_genomics_lib.pdf)
 - [Clase 03 - Alineamiento](https://github.com/bioinf-geno/materials/raw/master/clase03_genomics_aln.pdf)
+- [Clase 03 - Ensamblaje de genomas](https://github.com/bioinf-geno/materials/raw/master/clase04_assembly.pdf)
 
 **VÍNCULOS ÚTILES**
 
